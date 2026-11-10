@@ -1,0 +1,16 @@
+name: tesis-qro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - pyarrow
+  - h3-py>=4
+  - folium
+  - geopandas
+  - contextily
+  - rapidfuzz
+  - openpyxl
+  - ipykernel
