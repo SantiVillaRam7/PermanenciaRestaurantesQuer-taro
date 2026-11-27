@@ -1,0 +1,121 @@
+TY  - COMP
+AU  - Bachmann, Max
+TI  - RapidFuzz: Rapid fuzzy string matching in Python
+PY  - 2024
+UR  - https://github.com/rapidfuzz/RapidFuzz
+N1  - Software
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Censo de Población y Vivienda 2020: Presentación de resultados. Querétaro
+PY  - 2021
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/cpv2020_pres_res_qro.pdf
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Censo de Población y Vivienda 2020. Principales resultados por AGEB y manzana urbana: Descriptor de archivos
+PY  - 2021
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/app/scitel/doc/descriptor/fd_agebmza_urbana_cpv2020.pdf
+ER  - 
+
+TY  - DATA
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Marco Geoestadístico. Censo de Población y Vivienda 2020
+PY  - 2021
+UR  - https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=889463807469
+N1  - Conjunto de datos geográficos
+ER  - 
+
+TY  - BOOK
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Sistema de Clasificación Industrial de América del Norte, México: SCIAN 2023
+PY  - 2023
+PB  - Instituto Nacional de Estadística y Geografía
+ER  - 
+
+TY  - GEN
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Directorio Estadístico Nacional de Unidades Económicas, DENUE 05/2025: Metadatos
+PY  - 2025
+UR  - https://www.inegi.org.mx/rnm/index.php/catalog/1103
+N1  - Red Nacional de Metadatos
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Directorio Estadístico Nacional de Unidades Económicas. DENUE 05/2026: Documento metodológico
+PY  - 2026
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/contenidos/temas/directorio/doc/metodologia.pdf
+ER  - 
+
+TY  - ELEC
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Simulador de la esperanza de vida de los negocios en México
+UR  - https://www.inegi.org.mx/temas/simuladorevnm/
+N1  - Recuperado el 21 de octubre de 2026
+ER  - 
+
+TY  - ELEC
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Términos de libre uso de la información del INEGI
+UR  - https://www.inegi.org.mx/inegi/terminos.html
+N1  - Recuperado el 9 de noviembre de 2026
+ER  - 
+
+TY  - COMP
+AU  - Jordahl, Kelsey
+AU  - Van den Bossche, Joris
+AU  - Fleischmann, Martin
+AU  - Wasserman, Jacob
+AU  - McBride, James
+AU  - Gerard, Jeffrey
+AU  - Tratner, Jeff
+AU  - Perry, Matthew
+AU  - Garcia Badaracco, Adrian
+AU  - Farmer, Carson
+AU  - Hjelle, Geir Arne
+AU  - Snow, Alan D.
+AU  - Cochran, Micah
+AU  - Gillies, Sean
+AU  - Culbertson, Lucas
+AU  - Bartos, Matt
+AU  - Eubank, Nick
+AU  - maxalbert
+AU  - Bilogur, Aleksey
+TI  - geopandas/geopandas: v0.8.1
+PY  - 2020
+PB  - Zenodo
+DO  - 10.5281/zenodo.3946761
+UR  - https://doi.org/10.5281/zenodo.3946761
+N1  - Software
+ER  - 
+
+TY  - COMP
+AU  - The pandas development team
+TI  - pandas-dev/pandas: Pandas
+PY  - 2024
+PB  - Zenodo
+DO  - 10.5281/zenodo.3509134
+UR  - https://doi.org/10.5281/zenodo.3509134
+N1  - Software
+ER  - 
+
+TY  - ELEC
+AU  - Uber Technologies
+TI  - H3: A hexagonal hierarchical geospatial indexing system
+UR  - https://h3geo.org
+ER  - 
+
+TY  - DATA
+AU  - Villaseñor Ramírez, Santiago
+TI  - Panel de permanencia y reemplazo de restaurantes, Zona Metropolitana de Querétaro 2020–2025
+PY  - 2026
+UR  - https://github.com/SantiVillaRam7/PermanenciaRestaurantesQuer-taro
+N1  - DOI de Zenodo pendiente
+N1  - Conjunto de datos. GitHub
+ER  - 

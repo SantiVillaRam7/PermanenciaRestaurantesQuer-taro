@@ -1,0 +1,398 @@
+TY  - COMP
+AU  - Bachmann, Max
+TI  - RapidFuzz: Rapid fuzzy string matching in Python
+PY  - 2024
+UR  - https://github.com/rapidfuzz/RapidFuzz
+N1  - Software
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Censo de Población y Vivienda 2020: Presentación de resultados. Querétaro
+PY  - 2021
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/cpv2020_pres_res_qro.pdf
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Censo de Población y Vivienda 2020. Principales resultados por AGEB y manzana urbana: Descriptor de archivos
+PY  - 2021
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/app/scitel/doc/descriptor/fd_agebmza_urbana_cpv2020.pdf
+ER  - 
+
+TY  - DATA
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Marco Geoestadístico. Censo de Población y Vivienda 2020
+PY  - 2021
+UR  - https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=889463807469
+N1  - Conjunto de datos geográficos
+ER  - 
+
+TY  - BOOK
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Sistema de Clasificación Industrial de América del Norte, México: SCIAN 2023
+PY  - 2023
+PB  - Instituto Nacional de Estadística y Geografía
+ER  - 
+
+TY  - GEN
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Directorio Estadístico Nacional de Unidades Económicas, DENUE 05/2025: Metadatos
+PY  - 2025
+UR  - https://www.inegi.org.mx/rnm/index.php/catalog/1103
+N1  - Red Nacional de Metadatos
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Directorio Estadístico Nacional de Unidades Económicas. DENUE 05/2026: Documento metodológico
+PY  - 2026
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/contenidos/temas/directorio/doc/metodologia.pdf
+ER  - 
+
+TY  - ELEC
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Simulador de la esperanza de vida de los negocios en México
+UR  - https://www.inegi.org.mx/temas/simuladorevnm/
+N1  - Recuperado el 21 de octubre de 2026
+ER  - 
+
+TY  - ELEC
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Términos de libre uso de la información del INEGI
+UR  - https://www.inegi.org.mx/inegi/terminos.html
+N1  - Recuperado el 9 de noviembre de 2026
+ER  - 
+
+TY  - COMP
+AU  - Jordahl, Kelsey
+AU  - Van den Bossche, Joris
+AU  - Fleischmann, Martin
+AU  - Wasserman, Jacob
+AU  - McBride, James
+AU  - Gerard, Jeffrey
+AU  - Tratner, Jeff
+AU  - Perry, Matthew
+AU  - Garcia Badaracco, Adrian
+AU  - Farmer, Carson
+AU  - Hjelle, Geir Arne
+AU  - Snow, Alan D.
+AU  - Cochran, Micah
+AU  - Gillies, Sean
+AU  - Culbertson, Lucas
+AU  - Bartos, Matt
+AU  - Eubank, Nick
+AU  - maxalbert
+AU  - Bilogur, Aleksey
+TI  - geopandas/geopandas: v0.8.1
+PY  - 2020
+PB  - Zenodo
+DO  - 10.5281/zenodo.3946761
+UR  - https://doi.org/10.5281/zenodo.3946761
+N1  - Software
+ER  - 
+
+TY  - COMP
+AU  - The pandas development team
+TI  - pandas-dev/pandas: Pandas
+PY  - 2024
+PB  - Zenodo
+DO  - 10.5281/zenodo.3509134
+UR  - https://doi.org/10.5281/zenodo.3509134
+N1  - Software
+ER  - 
+
+TY  - ELEC
+AU  - Uber Technologies
+TI  - H3: A hexagonal hierarchical geospatial indexing system
+UR  - https://h3geo.org
+ER  - 
+
+TY  - DATA
+AU  - Villaseñor Ramírez, Santiago
+TI  - Panel de permanencia y reemplazo de restaurantes, Zona Metropolitana de Querétaro 2020–2025
+PY  - 2026
+UR  - https://github.com/SantiVillaRam7/PermanenciaRestaurantesQuer-taro
+N1  - DOI de Zenodo pendiente
+N1  - Conjunto de datos. GitHub
+ER  -
+
+TY  - BOOK
+AU  - Anselin, Luc
+TI  - Spatial econometrics: Methods and models
+PY  - 1988
+PB  - Kluwer Academic
+ER  - 
+
+TY  - JOUR
+AU  - Anselin, Luc
+TI  - Local indicators of spatial association—LISA
+T2  - Geographical Analysis
+PY  - 1995
+VL  - 27
+IS  - 2
+SP  - 93
+EP  - 115
+DO  - 10.1111/j.1538-4632.1995.tb00338.x
+ER  - 
+
+TY  - JOUR
+AU  - Barboza Lara, C.
+TI  - La esperanza de vida de los negocios en las zonas metropolitanas de tamaño medio de México
+T2  - Contraste Regional
+PY  - 2019
+VL  - 7
+IS  - 14
+SP  - 65
+EP  - 86
+UR  - https://www.ciisder.mx/images/revista/contraste-regional-14/62_La_esperanza_de_vida_de_los_negocios_en_las_Zonas_Metropolitanas_de_tamao_medio_de_Mxico.pdf
+ER  - 
+
+TY  - BOOK
+AU  - Christaller, Walter
+TI  - Central places in southern Germany
+PY  - 1966
+PB  - Prentice-Hall
+N1  - C. W. Baskin, Trad. Obra original publicada en 1933
+ER  - 
+
+TY  - BOOK
+AU  - Davis, Steven J.
+AU  - Haltiwanger, John C.
+AU  - Schuh, Scott
+TI  - Job creation and destruction
+PY  - 1996
+PB  - MIT Press
+ER  - 
+
+TY  - JOUR
+AU  - Dunne, Timothy
+AU  - Roberts, Mark J.
+AU  - Samuelson, Larry
+TI  - Patterns of firm entry and exit in U.S. manufacturing industries
+T2  - The RAND Journal of Economics
+PY  - 1988
+VL  - 19
+IS  - 4
+SP  - 495
+EP  - 515
+ER  - 
+
+TY  - JOUR
+AU  - Eaton, B. Curtis
+AU  - Lipsey, Richard G.
+TI  - Comparison shopping and the clustering of homogeneous firms
+T2  - Journal of Regional Science
+PY  - 1979
+VL  - 19
+IS  - 4
+SP  - 421
+EP  - 435
+ER  - 
+
+TY  - JOUR
+AU  - Fotheringham, A. Stewart
+AU  - Wong, David W. S.
+TI  - The modifiable areal unit problem in multivariate statistical analysis
+T2  - Environment and Planning A
+PY  - 1991
+VL  - 23
+IS  - 7
+SP  - 1025
+EP  - 1044
+DO  - 10.1068/a231025
+ER  - 
+
+TY  - JOUR
+AU  - Geroski, P. A.
+TI  - What do we know about entry?
+T2  - International Journal of Industrial Organization
+PY  - 1995
+VL  - 13
+IS  - 4
+SP  - 421
+EP  - 440
+ER  - 
+
+TY  - JOUR
+AU  - Hotelling, Harold
+TI  - Stability in competition
+T2  - The Economic Journal
+PY  - 1929
+VL  - 39
+IS  - 153
+SP  - 41
+EP  - 57
+DO  - 10.2307/2224214
+ER  - 
+
+TY  - JOUR
+AU  - Huff, David L.
+TI  - Defining and estimating a trading area
+T2  - Journal of Marketing
+PY  - 1964
+VL  - 28
+IS  - 3
+SP  - 34
+EP  - 38
+ER  - 
+
+TY  - RPRT
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Estudio sobre la Demografía de los Negocios (EDN) 2023
+PY  - 2024
+PB  - Instituto Nacional de Estadística y Geografía
+UR  - https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2024/EDN/EDN2023.pdf
+N1  - Comunicado de prensa
+ER  - 
+
+TY  - BOOK
+AU  - Jacobs, Jane
+TI  - The economy of cities
+PY  - 1969
+PB  - Random House
+ER  - 
+
+TY  - JOUR
+AU  - Jensen, Pablo
+TI  - Network-based predictions of retail store commercial categories and optimal locations
+T2  - Physical Review E
+PY  - 2006
+VL  - 74
+IS  - 3
+SP  - 035101
+DO  - 10.1103/PhysRevE.74.035101
+ER  - 
+
+TY  - JOUR
+AU  - Jovanovic, Boyan
+TI  - Selection and the evolution of industry
+T2  - Econometrica
+PY  - 1982
+VL  - 50
+IS  - 3
+SP  - 649
+EP  - 670
+DO  - 10.2307/1912606
+ER  - 
+
+TY  - CONF
+AU  - Karamshuk, Dmytro
+AU  - Noulas, Anastasios
+AU  - Scellato, Salvatore
+AU  - Nicosia, Vincenzo
+AU  - Mascolo, Cecilia
+TI  - Geo-spotting: Mining online location-based services for optimal retail store placement
+T2  - Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+PY  - 2013
+SP  - 793
+EP  - 801
+PB  - ACM
+ER  - 
+
+TY  - BOOK
+AU  - Marshall, Alfred
+TI  - Principles of economics
+PY  - 1890
+PB  - Macmillan
+ER  - 
+
+TY  - BOOK
+AU  - Openshaw, Stan
+TI  - The modifiable areal unit problem
+PY  - 1984
+PB  - Geo Books
+ER  - 
+
+TY  - BOOK
+A2  - Ricci, Francesco
+A2  - Rokach, Lior
+A2  - Shapira, Bracha
+TI  - Recommender systems handbook
+PY  - 2015
+ET  - 2
+PB  - Springer
+ER  - 
+
+TY  - JOUR
+AU  - Roberts, David R.
+AU  - Bahn, Volker
+AU  - Ciuti, Simone
+AU  - Boyce, Mark S.
+AU  - Elith, Jane
+AU  - Guillera-Arroita, Gurutzeta
+AU  - Hauenstein, Severin
+AU  - Lahoz-Monfort, José J.
+AU  - Schröder, Boris
+AU  - Thuiller, Wilfried
+AU  - Warton, David I.
+AU  - Wintle, Brendan A.
+AU  - Hartig, Florian
+AU  - Dormann, Carsten F.
+TI  - Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure
+T2  - Ecography
+PY  - 2017
+VL  - 40
+IS  - 8
+SP  - 913
+EP  - 929
+DO  - 10.1111/ecog.02881
+ER  - 
+
+TY  - RPRT
+AU  - Secretaría de Desarrollo Agrario, Territorial y Urbano
+AU  - Consejo Nacional de Población
+AU  - Instituto Nacional de Estadística y Geografía
+TI  - Metrópolis de México 2020
+PY  - 2024
+UR  - https://www.gob.mx/sedatu/documentos/metropolis-de-mexico-2020
+ER  - 
+
+TY  - JOUR
+AU  - Shannon, Claude E.
+TI  - A mathematical theory of communication
+T2  - Bell System Technical Journal
+PY  - 1948
+VL  - 27
+IS  - 3
+SP  - 379
+EP  - 423
+DO  - 10.1002/j.1538-7305.1948.tb01338.x
+ER  - 
+
+TY  - JOUR
+AU  - Shmueli, Galit
+TI  - To explain or to predict?
+T2  - Statistical Science
+PY  - 2010
+VL  - 25
+IS  - 3
+SP  - 289
+EP  - 310
+DO  - 10.1214/10-STS330
+ER  - 
+
+TY  - JOUR
+AU  - Sobrino, Jaime
+TI  - Ciudades y zonas metropolitanas en México, 2020
+T2  - Realidad, Datos y Espacio. Revista Internacional de Estadística y Geografía
+PY  - 2024
+VL  - 15
+IS  - 2
+UR  - https://rde.inegi.org.mx/index.php/2024/05/01/ciudades-y-zonas-metropolitanas-en-mexico-2020/
+ER  - 
+
+TY  - JOUR
+AU  - Tobler, W. R.
+TI  - A computer movie simulating urban growth in the Detroit region
+T2  - Economic Geography
+PY  - 1970
+VL  - 46
+IS  - sup1
+SP  - 234
+EP  - 240
+DO  - 10.2307/143141
+ER  - 

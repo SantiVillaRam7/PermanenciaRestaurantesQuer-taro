@@ -1,6 +1,15 @@
 # Permanencia y reemplazo de restaurantes en la Zona Metropolitana de Querétaro, 2020–2025
 
 Conjunto de datos y código de un caso de investigación de titulación en Ciencia de Datos (ITAM).
+
+## Dos versiones
+
+| Carpeta | Qué es |
+|---|---|
+| Raíz (`data/`, `notebooks/`) | **Proyecto anterior:** siete ediciones del DENUE (04/2020–05/2026). Incluye la auditoría de actualización del directorio y el control con 05/2026 |
+| [`proyecto_reducido/`](proyecto_reducido/) | **Versión actual:** solo las dos ediciones con censo (04/2020 y 05/2025), modelos explicativos y extensión monetaria (Censos Económicos 2024 y ENIGH 2024) con ventas, utilidad y valor esperado por zona. Es la que describe `proyecto_reducido/Nota_de_datos_restaurantes_ZMQ_v2.docx` |
+
+Lo que sigue describe el proyecto anterior; el proyecto reducido tiene su propio README.
 Sigue a cada restaurante (SCIAN 722) registrado en el DENUE 04/2020 hasta el DENUE 05/2025 y
 clasifica qué hay en su ubicación: el mismo negocio, otro negocio o ningún sucesor.
 
@@ -41,4 +50,4 @@ Después ejecuta los cuadernos en orden: `00_descarga_denue`, `01_ingesta_restau
 ## Fuentes y licencia
 
 Datos de origen: INEGI (DENUE, Censo de Población y Vivienda 2020, Marco Geoestadístico 2020),
-sujetos a los Términos de Libre Uso de la Información del INEGI. Datos derivados: [CC BY 4.0].
+sujetos a los Términos de Libre Uso de la Información del INEGI. Datos derivados: CC BY 4.0 (`LICENSE-DATA.md`). Código: MIT (`LICENSE`).

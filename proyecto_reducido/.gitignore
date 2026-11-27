@@ -1,0 +1,4 @@
+# Descargas del INEGI: las reproducen los notebooks 00 (copia de ../data/raw) y 06 (Censos Económicos y ENIGH)
+data/raw/
+.ipynb_checkpoints/
+__pycache__/
